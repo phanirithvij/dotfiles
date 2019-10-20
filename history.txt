@@ -1,0 +1,1000 @@
+ 1011  for i in {1..100000};do echo $i; done
+ 1012  time for i in {1..100000};do echo $i; done
+ 1013  time for i in {1..100000};do; done
+ 1014  time for i in {1..100000};do ; done
+ 1015  time for i in {1..100000};do j=i; done
+ 1016  time for i in {1..100000};do j=$i; done
+ 1017  time for i in {1..1000000};do j=$i; done
+ 1018  time for i in {1..10000000};do j=$i; done
+ 1019  ls
+ 1020  c
+ 1021  ll
+ 1022  ls
+ 1023  ls -l
+ 1024  ls -la
+ 1025  xdg-open https://www.youtube.com/
+ 1026  xdg-open Downloads/Telegram\ Desktop/asunabg.png 
+ 1027  xdg-open .
+ 1028  cd /mnt/Storage/Projects/fun/code/
+ 1029  xdg-open .
+ 1030  start .
+ 1031  code .
+ 1032  g++ array.cpp -o array
+ 1033  ./array 90
+ 1034  ./array 9
+ 1035  g++ array.cpp -o array
+ 1036  ./array 90
+ 1037  g++ array.cpp -o array
+ 1038  ./a
+ 1039  ./array
+ 1040  g++ array.cpp -o array
+ 1041  ./array
+ 1042  g++ array.cpp -o array
+ 1043  ./array
+ 1044  ./array 21
+ 1045  g++ array.cpp -o array
+ 1046  ./array
+ 1047  g++ array.cpp -o array
+ 1048  ./array
+ 1049  g++ array.cpp -o array
+ 1050  ./array
+ 1051  g++ array.cpp -o array
+ 1052  ./array
+ 1053  g++ array.cpp -o array
+ 1054  ./array
+ 1055  g++ array.cpp -o array
+ 1056  ./array
+ 1057  g++ array.cpp -o array
+ 1058  ./array
+ 1059  g++ array.cpp -o array
+ 1060  ./array
+ 1061  g++ array.cpp -o array
+ 1062  ./array
+ 1063  g++ array.cpp -o array
+ 1064  ./array
+ 1065  g++ array.cpp -o array
+ 1066  ./array
+ 1067  g++ array.cpp -o array
+ 1068  ./array
+ 1069  g++ array.cpp -o array
+ 1070  ./array
+ 1071  g++ array.cpp -o array
+ 1072  ./array
+ 1073  g++ mario.cpp -o mario
+ 1074  ./mario
+ 1075  echo $?
+ 1076  g++ mario.cpp -o mario
+ 1077  ./mario
+ 1078  echo $?
+ 1079  ./mario
+ 1080  g++ mario.cpp -o mario
+ 1081  ./mario
+ 1082  echo $?
+ 1083  ls
+ 1084  echo $?
+ 1085  wrhfhroifholw
+ 1086  echo $?
+ 1087  wrhfhroifholw
+ 1088  egqydcyugewjdgjdw
+ 1089  g++ mario.cpp -o mario
+ 1090  ./mario
+ 1091  echo $?
+ 1092  ./mario
+ 1093  echo $?
+ 1094  e
+ 1095  cd /mnt/Storage/Projects/fun/code/
+ 1096  c
+ 1097  ll
+ 1098  c
+ 1099  code .
+ 1100  g++ mario.cpp -o mario
+ 1101  ./mario
+ 1102  g++ mario.cpp -o mario
+ 1103  ./mario
+ 1104  g++ mario.cpp -o mario
+ 1105  ./mario
+ 1106  g++ mario.cpp -o mario
+ 1107  ./mario
+ 1108  g++ mario.cpp -o mario
+ 1109  ./mario
+ 1110  g++ mario.cpp -o mario
+ 1111  ./mario
+ 1112  g++ mario.cpp -o mario
+ 1113  ./mario
+ 1114  ll
+ 1115  git init
+ 1116  ls
+ 1117  ls -l
+ 1118  ls -la
+ 1119  cd .git
+ 1120  ls
+ 1121  ll
+ 1122  ls -l
+ 1123  ls -la
+ 1124  cat config 
+ 1125  cat description 
+ 1126  cd ..
+ 1127  c
+ 1128  git remote add https://gitlab.com/sriharshitha.deepala/my-first-project.git
+ 1129  git remote add origin https://gitlab.com/sriharshitha.deepala/my-first-project.git
+ 1130  git status
+ 1131  git add .
+ 1132  git status
+ 1133  git commit -m "Hhahahaha"
+ 1134  git pull
+ 1135  git config --global user.name
+ 1136  git config --global user.email
+ 1137  git config --global user.name "sriharshitha.deepala"
+ 1138  git config --global user.name "sriharshitha.deepala@gmail.com"
+ 1139  git config --global user.email
+ 1140  git config --global user.name
+ 1141  git config --global user.name "sriharshitha.deepala"
+ 1142  git config --global user.email "sriharshitha.deepala@gmail.com"
+ 1143  git pull
+ 1144  git push -u origin maste
+ 1145  git push -u origin master
+ 1146  rm -rf .git
+ 1147  git init
+ 1148  git add .
+ 1149  git commit -m "Hhahahaha"
+ 1150  git status
+ 1151  git remote add origin remote: The project you were looking for could not be found.
+ 1152  git remote add origin https://sriharshitha.depala@gitlab.com/sriharshitha.deepala/my-first-project.git
+ 1153  git remote add origin https://sriharshitha.deepala@gitlab.com/sriharshitha.deepala/my-first-project.git
+ 1154  git remote rm origin https://sriharshitha.deepala@gitlab.com/sriharshitha.deepala/my-first-project.git
+ 1155  git remote remove origin https://sriharshitha.deepala@gitlab.com/sriharshitha.deepala/my-first-project.git
+ 1156  git remote remove origin
+ 1157  git remote add origin https://sriharshitha.deepala@gitlab.com/sriharshitha.deepala/my-first-project.git
+ 1158  git pull
+ 1159  git push -u origin master
+ 1160  git pull
+ 1161  git pull origin master
+ 1162  git pull origin master --allow-unrelated-histories
+ 1163  git push -u origin master
+ 1164  git config --global user.email "phanirithvij20003@gmail.com"
+ 1165  git config --global user.name "phanirithvij"
+ 1166  e
+ 1167  du -sh
+ 1168  ls
+ 1169  ll
+ 1170  tree
+ 1171  tree -S
+ 1172  tree -Sh
+ 1173  tree -sh
+ 1174  tree -rsh
+ 1175  tree -ash
+ 1176  du -sh
+ 1177  ll
+ 1178  rm mario jihad.cpp 
+ 1179  du -sh
+ 1180  ll
+ 1181  rm a.out 
+ 1182  ll
+ 1183  rm array
+ 1184  ll
+ 1185  cd .vscode/
+ 1186  ll
+ 1187  cd ..
+ 1188  c
+ 1189  ll
+ 1190  cd .git
+ 1191  ll
+ 1192  du -sh
+ 1193  cd ..
+ 1194  c
+ 1195  ll
+ 1196  du -sh
+ 1197  xdg-open  .
+ 1198  git add .
+ 1199  git commit -m "hahahhah"
+ 1200  git push -u origin master
+ 1201  rm -rf *
+ 1202  ll
+ 1203  git pull
+ 1204  ll
+ 1205  code .
+ 1206  git status
+ 1207  code .
+ 1208  e
+ 1209  go
+ 1210  ll
+ 1211  c
+ 1212  l
+ 1213  cd Downloads/
+ 1214  ll
+ 1215  wget https://dl.google.com/go/go1.12.6.linux-amd64.tar.gz
+ 1216  tar xf go1.12.6.linux-amd64.tar.gz 
+ 1217  ll
+ 1218  cd go/
+ 1219  ll
+ 1220  pwd
+ 1221  cd
+ 1222  vi .bashrc
+ 1223  source .bashrc
+ 1224  go
+ 1225  cd /home/rithvij/Downloads/go
+ 1226  ;;
+ 1227  ll
+ 1228  cd bin/
+ 1229  ll
+ 1230  cd ..
+ 1231  vi ~/.bashrc
+ 1232  source ~/.bashrc 
+ 1233  cd
+ 1234  go
+ 1235  go get go get fyne.io/fyne
+ 1236  go get fyne.io/fyne
+ 1237  cd
+ 1238  cd Downloads/go/src/
+ 1239  cd ..
+ 1240  cd bin/
+ 1241  ll
+ 1242  cd ..
+ 1243  c
+ 1244  ll
+ 1245  cd pkg/
+ 1246  ll
+ 1247  cd ..
+ 1248  c
+ 1249  ll
+ 1250  cd lib
+ 1251  ll
+ 1252  cd ..
+ 1253  c
+ 1254  ll
+ 1255  cd bin
+ 1256  ll
+ 1257  cd
+ 1258  cd go
+ 1259  l
+ 1260  ll
+ 1261  c
+ 1262  ll
+ 1263  cd pkg/
+ 1264  ll
+ 1265  cd ..
+ 1266  c
+ 1267  ll
+ 1268  cd src/
+ 1269  ll
+ 1270  cd fyne.io/
+ 1271  ll
+ 1272  cd fyne/
+ 1273  ll
+ 1274  cd cmd/
+ 1275  ll
+ 1276  c
+ 1277  cd fyne_demo/
+ 1278  ll
+ 1279  go build
+ 1280  sudo apt install libx11-dev
+ 1281  go build
+ 1282  sudo apt install libx11-dev libxinerama-dev
+ 1283  sudo apt install libx11-dev libxinerama-dev xorg-dev
+ 1284  go build
+ 1285  locate libGL
+ 1286  sudo apt install libgl1-mesa-dev
+ 1287  sudo apt-get update
+ 1288  sudo apt-get install freeglut3 freeglut3-dev binutils-gold cmake g++ libglew-dev mesa-common-dev build-essential libglew1.5-dev libglm-dev
+ 1289  go build
+ 1290  ll
+ 1291  ./fyne_demo 
+ 1292  ll
+ 1293  exit
+ 1294  git
+ 1295  cd /mnt/OS/
+ 1296  ll
+ 1297  go version
+ 1298  cd ../Storage/Projects/
+ 1299  ll
+ 1300  cd knowledge/
+ 1301  c
+ 1302  code .
+ 1303  e
+ 1304  cd ~/Dow
+ 1305  cd ~/Downloads/
+ 1306  c
+ 1307  sudo dpkg --install code_1.35.1-1560350270_amd64.deb 
+ 1308  cd -
+ 1309  code .
+ 1310  go build
+ 1311  ll
+ 1312  ./go-u-bastard 
+ 1313  cd go
+ 1314  c
+ 1315  cd src/fyne.io/fyne/cmd/fyne_demo/
+ 1316  ll
+ 1317  go build
+ 1318  ll
+ 1319  ./fyne_demo 
+ 1320  ll
+ 1321  ll -h
+ 1322  cd
+ 1323  cd /mnt/Storage/Projects/fun/
+ 1324  c
+ 1325  ll
+ 1326  c
+ 1327  cd gogo
+ 1328  mkdir go-u-bastard
+ 1329  cd go-u-bastard/
+ 1330  c
+ 1331  code .
+ 1332  cd ..
+ 1333  cd
+ 1334  cd go/src/fyne.io/fyne/cmd/fyne_demo/
+ 1335  ll
+ 1336  ./fyne_demo 
+ 1337  cd
+ 1338  cd /mnt/Storage/Projects/knowledge/
+ 1339  code 
+ 1340  code .
+ 1341  xdg-open .
+ 1342  git status
+ 1343  code .
+ 1344  cd /mnt/Storage/
+ 1345  ll
+ 1346  cd Software/protobuf-3.8.0/
+ 1347  ./configure
+ 1348  make
+ 1349  make -j8
+ 1350  make check
+ 1351  make -j8 check
+ 1352  sudo make install
+ 1353  sudo ldconfig
+ 1354  protoc 
+ 1355  cd examples/
+ 1356  l
+ 1357  ll
+ 1358  code .
+ 1359  sudo apt-get update
+ 1360  sudo apt-get upgrade
+ 1361  flutter
+ 1362  code .
+ 1363  protoc -I=. --dart-out=. addressbook.proto 
+ 1364  protoc -I=. --dart_out=. addressbook.proto 
+ 1365  which protoc
+ 1366  cd ..
+ 1367  cd src/
+ 1368  ll
+ 1369  locate protoc-gen-dart
+ 1370  cd ..
+ 1371  cd examples/
+ 1372  ll
+ 1373  protoc -I=. --dart_out=. addressbook.proto 
+ 1374  cd ..
+ 1375  git clone https://github.com/dart-lang/protobuf.git
+ 1376  cd protobuf
+ 1377  cd ..
+ 1378  mv protobuf protobuf_dart
+ 1379  cd protobuf_dart/
+ 1380  ll
+ 1381  cd protoc_plugin/
+ 1382  ll
+ 1383  cd bin/
+ 1384  ll
+ 1385  cat protoc-gen-dart 
+ 1386  echo $BINDIR
+ 1387  dirname
+ 1388  dirname .
+ 1389  c
+ 1390  vi ~/.bashrc 
+ 1391  cd ..
+ 1392  cd protobuf-3.8.0/examples/
+ 1393  ll
+ 1394  protoc -I=. --dart_out=. addressbook.proto 
+ 1395  protoc-gen-dart
+ 1396  which protoc-gen-dart
+ 1397  source ~/.bashrc 
+ 1398  protoc -I=. --dart_out=. addressbook.proto 
+ 1399  pub global activate protoc_plugin
+ 1400  which pub
+ 1401  df -h
+ 1402  vi ~/.bashrc 
+ 1403  source ~/.bashrc 
+ 1404  pub
+ 1405  which pub
+ 1406  ll
+ 1407  protoc -I=. --dart_out=. addressbook.proto 
+ 1408  code .
+ 1409  ll
+ 1410  cat pubspec.yaml 
+ 1411  ll
+ 1412  go
+ 1413  go version
+ 1414  java -version
+ 1415  which dart
+ 1416  dart -v
+ 1417  dart -V
+ 1418  dart --version
+ 1419  ll
+ 1420  protoc -I=$SRC_DIR --python_out=$DST_DIR $SRC_DIR/addressbook.proto
+ 1421  protoc -I=. --python_out=. addressbook.proto
+ 1422  ll
+ 1423  protoc -I=. --go_out=. addressbook.proto
+ 1424  go get -u github.com/golang/protobuf/protoc-gen-go
+ 1425  go get -u -v github.com/golang/protobuf/protoc-gen-go
+ 1426  go get -v -u github.com/golang/protobuf/protoc-gen-go
+ 1427  protoc -I=. --go_out=. addressbook.proto
+ 1428  echo $GOPATH/bin
+ 1429  echo $GOBIN
+ 1430  which go
+ 1431  cd /home/rithvij/Downloads/go/bin/
+ 1432  ll
+ 1433  cd ,,
+ 1434  cd ..
+ 1435  c
+ 1436  ll
+ 1437  cd src/
+ 1438  ll
+ 1439  cd ..
+ 1440  cd
+ 1441  cd go
+ 1442  ll
+ 1443  cd bin/
+ 1444  ll
+ 1445  cd ..
+ 1446  vi ~/.bashrc
+ 1447  source ~/.bashrc 
+ 1448  cd ..
+ 1449  cd /mnt/Storage/Software/protobuf-3.8.0/examples/
+ 1450  l
+ 1451  ll
+ 1452  protoc -I=. --go_out=. addressbook.proto
+ 1453  ll
+ 1454  protoc -I$(PROTO_DIR) --dart_out=lib/client $(PROTO_DIR)/google/protobuf/timestamp.proto
+ 1455  protoc -I/usr/local/include -I. --go_out=plugins=grpc:. *.proto
+ 1456  ll
+ 1457  which protoc
+ 1458  cd ..
+ 1459  cd -
+ 1460  sudo make uninstall
+ 1461  cd ..
+ 1462  touch install_protobuf.sh
+ 1463  code install_protobuf.sh 
+ 1464  bash install_protobuf.sh 
+ 1465  cd #! /bin/bash
+ 1466  TEMP_DIR=/tmp
+ 1467  VERSION=`curl --silent "https://api.github.com/repos/protocolbuffers/protobuf/releases/latest" | grep -Po '"tag_name": "v\K.*?(?=")'`
+ 1468  cd /usr/local/include/google
+ 1469  ll
+ 1470  cd protobuf/
+ 1471  ll
+ 1472  cd ..
+ 1473  c
+ 1474  ll
+ 1475  cd -
+ 1476  cd
+ 1477  cd -
+ 1478  cd ..
+ 1479  rm -r google/
+ 1480  sudo rm -r google/
+ 1481  cd /mnt/Storage/Software/
+ 1482  bash install_protobuf.sh 
+ 1483  which protoc
+ 1484  protoc
+ 1485  protoc --version
+ 1486  protocprotoc -I$(PROTO_DIR) --dart_out=lib/client $(PROTO_DIR)/google/protobuf/timestamp.proto
+ 1487  protoc -I$(PROTO_DIR) --dart_out=lib/client $(PROTO_DIR)/google/protobuf/timestamp.proto
+ 1488  protoc -I=/usr/local/include --dart_out=. /usr/local/include/google/protobuf/timestamp.proto
+ 1489  ll
+ 1490  cd protobuf-3.8.0/examples/
+ 1491  protoc -I=/usr/local/include --dart_out=. /usr/local/include/google/protobuf/timestamp.proto
+ 1492  l
+ 1493  ll
+ 1494  dart list_people.dart 
+ 1495  dart add_person.dart 
+ 1496  dart add_person.dart HELP
+ 1497  dart list_people.dart 
+ 1498  dart list_people.dart HELP
+ 1499  ll
+ 1500  cat HELP 
+ 1501  ll
+ 1502  cat HELP 
+ 1503  file HELP 
+ 1504  dart add_person.dart HELP
+ 1505  dart list_people.dart HELP
+ 1506  go run add_person.go HELP
+ 1507  go get -v -u github.com/protocolbuffers/protobuf/examples/tutorial
+ 1508  go run add_person.go HELP
+ 1509  python -V
+ 1510  python3 -V
+ 1511  python3 add_person.py HELP
+ 1512  pip install protobuf
+ 1513  pip install --user protobuf
+ 1514  python3 add_person.py HELP
+ 1515  python3 list_people.py HELP
+ 1516  ll
+ 1517  python3 add_person.py HELP
+ 1518  python3 list_people.py HELP
+ 1519  dart list_people.dart HELP
+ 1520  python3 list_people.py HELP
+ 1521  go run list_people.go HELP
+ 1522  echo $GOPATH
+ 1523  go run list_people.go HELP
+ 1524  go run add_person.go HELP
+ 1525  ll
+ 1526  go run list_people.go HELP
+ 1527  protoc -I=$SRC_DIR --cpp_out=$DST_DIR $SRC_DIR/addressbook.proto
+ 1528  protoc -I=. --cpp_out=. addressbook.proto
+ 1529  cd ..
+ 1530  cd src/google/protobuf/
+ 1531  ll
+ 1532  cat port_def.inc 
+ 1533  cd ..
+ 1534  cd examples/
+ 1535  ll
+ 1536  g++ add_person.cc 
+ 1537  g++ add_person.cc -I=../src/
+ 1538  g++ -I=../src/ add_person.cc 
+ 1539  make
+ 1540  ll
+ 1541  bazel 
+ 1542  bazel build 
+ 1543  bazel help buil
+ 1544  bazel build com_google_protobuf_cc
+ 1545  bazel build :com_google_protobuf_cc
+ 1546  bazel build addressbook_cc_proto
+ 1547  bazel build addressbook_java_proto
+ 1548  g++ add_person.cc -I=../src/
+ 1549  g++ add_person.cc -I ../src/
+ 1550  make
+ 1551  make -I ../src/
+ 1552  make -I ../src/*
+ 1553  make -I ../src/
+ 1554  pkg-config --cflags --libs protobuf
+ 1555  cmake .
+ 1556  CMAKE_PREFIX_PATH=../src
+ 1557  cmake .
+ 1558  CMAKE_PREFIX_PATH=../src/
+ 1559  cmake .
+ 1560  CMAKE_PREFIX_PATH=../s
+ 1561  CMAKE_PREFIX_PATH=../
+ 1562  cmake .
+ 1563  ll
+ 1564  bazel build addressbook_cc_proto
+ 1565  bazel build addressbook_java_proto
+ 1566  bazel build addressbook_java_proto --verbose
+ 1567  bazel build addressbook_java_proto --sandbox
+ 1568  bazel build --sandbox addressbook_java_proto
+ 1569  bazel --sandbox_debug build addressbook_java_proto
+ 1570  bazel build --sandbox_debug addressbook_java_proto
+ 1571  echo $JAVA_HOME
+ 1572  bazel build --sandbox_debug addressbook_java_proto
+ 1573  ll
+ 1574  rm -r bazel-*
+ 1575  ll
+ 1576  go run add_person_test.go HELP
+ 1577  go test
+ 1578  ll ..
+ 1579  mkdir cpp
+ 1580  mv *.cc cpp/
+ 1581  go test
+ 1582  go test list_people_test.go 
+ 1583  go test
+ 1584  ll
+ 1585  go test
+ 1586  mv list_people_test.go cpp/
+ 1587  go test
+ 1588  mv add_person_test.go cpp/
+ 1589  go test
+ 1590  mv cpp/*.go .
+ 1591  go test
+ 1592  python3 list_people.py HELP
+ 1593  bazel build :all
+ 1594  bazel build :all --incompatible_disable_deprecated_attr_params=false
+ 1595  mv cpp/* .
+ 1596  bazel build :all --incompatible_disable_deprecated_attr_params=false
+ 1597  bazel-bin/add_person_cpp addressbook.data
+ 1598  bazel build addressbook_cc_proto
+ 1599  bazel-bin/add_person_cpp addressbook.data
+ 1600  make cpp
+ 1601  dart add_person.dart addessbook.data
+ 1602  dart list_people.dart addressbook.data
+ 1603  ll
+ 1604  dart add_person.dart addessbook.data
+ 1605  dart list_people.dart addressbook.data
+ 1606  ll
+ 1607  dart list_people.dart ./addressbook.data
+ 1608  dart list_people.dart addressbook.data
+ 1609  rm addessbook.data 
+ 1610  make python
+ 1611  ll
+ 1612  ./add_person_python 
+ 1613  cat add_person_python 
+ 1614  /usr/bin/env python3
+ 1615  make python
+ 1616  ./add_person_python 
+ 1617  ./add_person_python addressbook.data
+ 1618  ./list_people_python addressbook.data 
+ 1619  ll
+ 1620  rm addressbook_pb2.py*
+ 1621  make python
+ 1622  protoc -I=. --python_out=. addressbook.proto
+ 1623  make go
+ 1624  ll
+ 1625  ./list_people_go addressbook.data 
+ 1626  ./add_person_go addressbook.data 
+ 1627  ./list_people_go addressbook.data 
+ 1628  ./list_people_python addressbook.data 
+ 1629  dart list_people.dart addressbook.data
+ 1630  ./list_people_python addressbook.data 
+ 1631  ./list_people_go addressbook.data 
+ 1632  rm -rf bazel-*
+ 1633  ll
+ 1634  ll -S
+ 1635  ll -Sh
+ 1636  code .
+ 1637  make a;;
+ 1638  make all
+ 1639  ll
+ 1640  make clean
+ 1641  ll
+ 1642  make all
+ 1643  ll
+ 1644  make clean
+ 1645  make all
+ 1646  javac
+ 1647  sudo apt install openjdk-8-jdk-headless 
+ 1648  javac
+ 1649  make all
+ 1650  mkdir -p java/lib
+ 1651  cd java/lib/
+ 1652  wget https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.8.0/protobuf-java-3.8.0.jar
+ 1653  cd ..
+ 1654  c
+ 1655  export CLASSPATH=./java/lib/protobuf-java-3.8.0.jar 
+ 1656  make all
+ 1657  make clean
+ 1658  make all
+ 1659  make clean
+ 1660  make -j8 all
+ 1661  ll
+ 1662  rm *middle*
+ 1663  ll
+ 1664  ./list_people_java 
+ 1665  ./list_people_java HELP 
+ 1666  cat ./list_people_java 
+ 1667  echo $CLASSPATH
+ 1668  ll
+ 1669  make clean
+ 1670  ll
+ 1671  cat addressbook.pbjson.dart
+ 1672  make all
+ 1673  make clean
+ 1674  make -j8 all
+ 1675  ll
+ 1676  cmake
+ 1677  cmake .
+ 1678  ll
+ 1679  make a;;
+ 1680  make all
+ 1681  make cpp
+ 1682  pkg-config --cflags --libs protobuf
+ 1683  cd /usr/local/include/google/protobuf/
+ 1684  c
+ 1685  ll
+ 1686  cd compiler/
+ 1687  ll
+ 1688  cd ..
+ 1689  c
+ 1690  cd ..
+ 1691  c
+ 1692  ll
+ 1693  cd  protobuf/
+ 1694  c
+ 1695  ll
+ 1696  cd compiler/
+ 1697  ll
+ 1698  c
+ 1699  cd ..
+ 1700  cd .
+ 1701  cd
+ 1702  cd /mnt/Storage/Software/protobuf-3.8.0/examples/
+ 1703  ll
+ 1704  make clean
+ 1705  ll
+ 1706  make clean
+ 1707  bazel build :all
+ 1708  bazel build addressbook_java_lite_proto
+ 1709  bazel build addressbook_java_lite_proto --incompatible_disable_deprecated_attr_params=false
+ 1710  bazel build :all
+ 1711  bazel build :all --incompatible_disable_deprecated_attr_params=false
+ 1712  ll
+ 1713  bazel-bin/list_people_cpp addressbook.data 
+ 1714  bazel clean
+ 1715  bazel clean --async
+ 1716  ll
+ 1717  cmake clean
+ 1718  cmake --help
+ 1719  cmake --clean
+ 1720  ll
+ 1721  rm -rf __pycache__/
+ 1722  ll
+ 1723  make clean
+ 1724  ll
+ 1725  cd dart_tutorial/
+ 1726  ll
+ 1727  cd google/
+ 1728  ll
+ 1729  cd protobuf/
+ 1730  ll
+ 1731  cd ..
+ 1732  c
+ 1733  ll
+ 1734  rm addressbook.pbserver.dart addressbook.pbenum.dart addressbook.pbjson.dart addressbook.pb.dart
+ 1735  l
+ 1736  ll
+ 1737  rm CMakeCache.txt
+ 1738  rm -rf CMakeFiles/
+ 1739  ll
+ 1740  rm HELP 
+ 1741  l
+ 1742  ll
+ 1743  rm addressbook.data 
+ 1744  ll
+ 1745  cat WORKSPACE 
+ 1746  bazel build :all
+ 1747  bazel build :all --incompatible_disable_deprecated_attr_params=false
+ 1748  history 
+ 1749  history > history.md
+ 1750  killall code
+ 1751  ll
+ 1752  bazel clean --async
+ 1753  bazel build :all --incompatible_disable_deprecated_attr_params=false
+ 1754  ll
+ 1755  cd bazel-bin
+ 1756  ll
+ 1757  cd ..
+ 1758  c
+ 1759  ll
+ 1760  l
+ 1761  ll
+ 1762  bazel-testlogs/
+ 1763  ls bazel-testlogs/
+ 1764  ls -la bazel-testlogs/
+ 1765  tree .
+ 1766  cd bazel-bin
+ 1767  tree .
+ 1768  ll
+ 1769  ll -Sh
+ 1770  cd ..
+ 1771  c
+ 1772  ll
+ 1773  make all
+ 1774  make clean
+ 1775  make -j8 all
+ 1776  code .
+ 1777  make clean
+ 1778  ll
+ 1779  make clean
+ 1780  make -j8 all
+ 1781  make clean
+ 1782  make -j8 all
+ 1783  e
+ 1784  cd ..
+ 1785  wget https://github.com/protocolbuffers/protobuf/releases/download/v3.8.0/protobuf-python-3.8.0.zip
+ 1786  rm protobuf-python-3.8.0.zip*
+ 1787  wget https://github.com/protocolbuffers/protobuf/releases/download/v3.8.0/protobuf-python-3.8.0.zip
+ 1788  mkdir windows
+ 1789  mv protobuf-python-3.8.0.zip  windows/
+ 1790  cd windows/
+ 1791  unzip protobuf-python-3.8.0.zip 
+ 1792  cd protobuf-3.8.0/
+ 1793  ll
+ 1794  cd python/
+ 1795  ll
+ 1796  pip -V
+ 1797  cd .
+ 1798  cd ..
+ 1799  c
+ 1800  cd ..
+ 1801  git clone https://github.com/protocolbuffers/protobuf
+ 1802  cd protobuf
+ 1803  cd python/
+ 1804  ll
+ 1805  cd ..
+ 1806  cd protobuf-3.8.0/
+ 1807  sudo apt-get install apt-transport-https
+ 1808  cd ~/Downloads/
+ 1809  wget https://github.com/bazelbuild/bazel/releases/download/0.27.1/bazel_0.27.1-linux-x86_64.deb
+ 1810  sudo dpkg --install bazel_0.27.1-linux-x86_64.deb 
+ 1811  ffmpeg -V
+ 1812  ffmpeg -h
+ 1813  tar xf tor-browser-linux64-8.5.3_en-US.tar.xz 
+ 1814  ll
+ 1815  cd tor-browser_en-US/
+ 1816  ll
+ 1817  ./start-tor-browser.desktop 
+ 1818  ping proxy.iiit.ac.in
+ 1819  cat ./start-tor-browser.desktop 
+ 1820  ll
+ 1821  start .
+ 1822  opop .
+ 1823  cd ..
+ 1824  sudo apt-get install apt-transport-https
+ 1825  sudo dpkg --install bazel_0.27.1-linux-x86_64.deb 
+ 1826  sudo dpkg --install code_1.36.0-1562161087_amd64.deb 
+ 1827  ll
+ 1828  rm tor-browser-linux64-8.5.3_en-US.tar.xz
+ 1829  rm code_1.3*
+ 1830  ll
+ 1831  rm go1.12.6.linux-amd64.tar.gz 
+ 1832  ll
+ 1833  mkdir flutter-linux
+ 1834  mv flutter_linux_v1.5.4-hotfix.2-stable.tar.xz flutter-linux/
+ 1835  cd flutter-linux/
+ 1836  tar xf flutter_linux_v1.5.4-hotfix.2-stable.tar.xz 
+ 1837  ll
+ 1838  cd flutter/
+ 1839  ll
+ 1840  export PATH="$PATH:`pwd`/flutter/bin"
+ 1841  echo $PATH
+ 1842  vi ~/.bashrc 
+ 1843  source ~/.bashrc
+ 1844  cd ..
+ 1845  c
+ 1846  flutter doctor
+ 1847  cd -
+ 1848  cd flutter/
+ 1849  ll
+ 1850  vi ~/.bashrc 
+ 1851  source ~/.bashrc
+ 1852  flutter doctor
+ 1853  java -v
+ 1854  java -version
+ 1855  cd ..
+ 1856  c
+ 1857  mkdir AndroidStudio
+ 1858  mv android-studio-ide-183.5522156-linux.tar.gz AndroidStudio/
+ 1859  cd A
+ 1860  cd AndroidStudio/
+ 1861  tar xf android-studio-ide-183.5522156-linux.tar.gz 
+ 1862  ll
+ 1863  cd android-studio/
+ 1864  ll
+ 1865  cd bin/
+ 1866  ll
+ 1867  ./studio.sh 
+ 1868  cd ..
+ 1869  cd /mnt/Storage/Software/protobuf_dart/
+ 1870  ll
+ 1871  cd protobuf/
+ 1872  ll
+ 1873  pub install
+ 1874  source ~/.bashrc
+ 1875  pub install
+ 1876  cd ..
+ 1877  cd protoc_plugin/
+ 1878  ll
+ 1879  pub install
+ 1880  flutter doctot
+ 1881  flutter doctor
+ 1882  flutter doctor -v
+ 1883  flutter doctor --android-licenses
+ 1884  flutter doctor -v
+ 1885  cd /home/rithvij/Downloads/AndroidStudio/android-studio
+ 1886  c
+ 1887  ll
+ 1888  cd bin/
+ 1889  ll
+ 1890  ./studio.sh 
+ 1891  e
+ 1892  cd /dev
+ 1893  ll
+ 1894  sudo apt install qemu-kvm
+ 1895  ls -al /dev/kvm
+ 1896  grep kvm /etc/group
+ 1897  sudo adduser $USER kvm
+ 1898  grep kvm /etc/group
+ 1899  e
+ 1900  ls
+ 1901  npm -v
+ 1902  npm i -g npm
+ 1903  npm i -g npm n8n
+ 1904  n8n start --tunnel
+ 1905  e
+ 1906  ;;
+ 1907  ll
+ 1908  cat config 
+ 1909  cd ..
+ 1910  rm -rf helpless/
+ 1911  sudo rm -rf helpless/
+ 1912  ll
+ 1913  sudo mv /home/rithvij/wallpaper1 /System/Resources/Komorebi
+ 1914  c
+ 1915  ll
+ 1916  c
+ 1917  cd wallpaper1/
+ 1918  c
+ 1919  kk
+ 1920  c
+ 1921  ll
+ 1922  cat config 
+ 1923  cd ..
+ 1924  sudo rm -rf wallpaper1/
+ 1925  xdg-open wallpaper_creator.svg 
+ 1926  ll
+ 1927  cd parallax_sky/
+ 1928  c
+ 1929  ll
+ 1930  cat config 
+ 1931  cd ;;
+ 1932  cd 
+ 1933  c
+ 1934  git clone https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif.git
+ 1935  cd foo-Wallpaper-Feh-Gif/
+ 1936  ll
+ 1937  ./back4.sh 0.010 gif/pixel.gif &
+ 1938  kilall back4.sh
+ 1939  killall back4.sh
+ 1940  killall feh
+ 1941  rm -rf /tmp/back4
+ 1942  gsettings set org.gnome.desktop.background show-desktop-icons true
+ 1943  e
+ 1944  ls
+ 1945  c
+ 1946  pi
+ 1947  ping -c1 google.com
+ 1948  c
+ 1949  ll
+ 1950  c
+ 1951  cd Downloads/
+ 1952  c
+ 1953  ll
+ 1954  c
+ 1955  wget https://github.com/cheesecakeufo/komorebi/releases/download/v2.1/komorebi-2.1-64-bit.deb
+ 1956  sudo dpkg -i komorebi-2.1-64-bit.deb 
+ 1957  komorebi
+ 1958  sudo mv /home/rithvij/helpless /System/Resources/Komorebi
+ 1959  cd /System/Resources/Komorebi
+ 1960  l
+ 1961  c
+ 1962  ll
+ 1963  cd helpless/
+ 1964  c
+ 1965  ll
+ 1966  cat config 
+ 1967  c
+ 1968  feh
+ 1969  sudo apt-get update
+ 1970  sudo apt-get install feh
+ 1971  e
+ 1972  cp /etc/default/grub .
+ 1973  sudo
+ 1974  su
+ 1975  sudo -i
+ 1976  e
+ 1977  cat /boot/grub/grub.cfg 
+ 1978  e
+ 1979  cd /mnt/Storage/Junk/db/assign2/part1
+ 1980  c
+ 1981  ll
+ 1982  c
+ 1983  make
+ 1984  ll
+ 1985  c
+ 1986  make .
+ 1987  g++ *.cc -o main
+ 1988  cat utils.cc 
+ 1989  cat main.hpp 
+ 1990  vi main.hpp 
+ 1991  c
+ 1992  ll
+ 1993  c
+ 1994  ll
+ 1995  c
+ 1996  touch g
+ 1997  ll
+ 1998  c
+ 1999  e
+ 2000  nemo
+ 2001  mkdir dotfiles
+ 2002  cd dotfiles/
+ 2003  c
+ 2004  git init 
+ 2005  cp ~/.bashrc 
+ 2006  cp ~/.bashrc .
+ 2007  git remote add origin https://github.com/phanirithvij/dotfiles.git
+ 2008  git add .;git commit -m '.';git push -u origin master
+ 2009  history 
+ 2010  history > history.txt
