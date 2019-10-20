@@ -1,0 +1,7 @@
+http://protonet.github.io/plupload/examples/drag_and_drop.html
+https://react-dropzone.js.org/
+https://wicg.github.io/directory-upload/index.html
+https://jsfiddle.net/phanirithvij/k9ahyom7/7/
+https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API
+http://unick-soft.ru/article.php?id=14
+https://ffmpeg.org/ffmpeg.html
