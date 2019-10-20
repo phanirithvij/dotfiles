@@ -8,10 +8,12 @@ alias ll='ls -l'
 alias la='ls -a'
 alias e='exit'
 alias opop='xdg-open'
-alias proj="cd /mnt/Storage/Projects"
+alias proj="cd /media/rithvij/Storage/Projects"
 
 #NODEJS
-export PATH=$PATH:/home/rithvij/Downloads/node-v11.13.0-linux-x64/bin
+export PATH=$PATH:/home/rithvij/Downloads/node-v12.12.0-linux-x64/bin
+export PATH=$PATH:/home/rithvij/Downloads/node-v10.16.3-linux-x64/bin
+
 
 #VIRTUALENV
 export PATH=$PATH:/home/rithvij/.local/bin
@@ -23,13 +25,17 @@ export GOBIN=~/go/bin
 export PATH=$PATH:$GOBIN
 
 #FLUTTER
-export PATH=$PATH::/home/rithvij/Downloads/flutter-linux/flutter/bin
+export PATH=$PATH:/home/rithvij/Downloads/flutter-linux/flutter/bin
+export PATH=$PATH:/home/rithvij/Downloads/flutter-linux/flutter-m/bin
 
 #PROTOBUF DART
-export PATH=$PATH:/mnt/Storage/Software/protobuf_dart/protoc_plugin/bin
+export PATH=$PATH:/media/rithvij/Storage/Software/protobuf_dart/protoc_plugin/bin
 
 #DART
 export PATH=/usr/lib/dart/bin:$PATH
+
+#TOR
+export PATH=/home/rithvij/Downloads/tor-browser_en-US:$PATH
 
 # If not running interactively, don't do anything
 case $- in
