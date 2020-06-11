@@ -25,3 +25,5 @@
   - youtube
 - tor
 - telegram desktop
+- ranger
+
