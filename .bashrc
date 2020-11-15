@@ -2,6 +2,27 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
+# w3m
+export PATH=$PATH:/usr/lib/w3m
+
+#Consul
+export PATH=$PATH:"/home/rithviz/Downloads/consul"
+
+#NDK
+export ANDROID_NDK_HOME="/home/rithviz/Android/Sdk/ndk/21.3.6528147"
+
+export PATH="$PATH:/home/rithvij/Downloads/android-studio/bin"
+
+# CLASSPATH for antlr (compilers course)
+export CLASSPATH=".:/usr/share/java/antlr-complete.jar:$CLASSPATH"
+export PATH="$PATH:/usr/local/lib"
+
+# EDITOR is vim
+export EDITOR="vim"
+
+# ICC compiler
+export PATH=$PATH:/home/rithviz/pkgs/intel-parallel-studio-xe/opt/intel/bin
+
 alias c='clear'
 alias l='ls'
 alias ll='ls -l'
@@ -10,10 +31,16 @@ alias e='exit'
 alias opop='xdg-open'
 alias proj="cd /media/rithvij/Storage/Projects"
 
+#Drivers
+export PATH=$PATH:/home/rithvij/drivers/chromedriver
+export PATH=$PATH:/home/rithvij/drivers/geckodriver
+
+#Jellyfin
+export PATH=$PATH:/home/rithvij/Downloads/jellyfin_10.5.5
+
 #NODEJS
 export PATH=$PATH:/home/rithvij/Downloads/node-v12.12.0-linux-x64/bin
 export PATH=$PATH:/home/rithvij/Downloads/node-v10.16.3-linux-x64/bin
-
 
 #VIRTUALENV
 export PATH=$PATH:/home/rithvij/.local/bin
@@ -36,6 +63,9 @@ export PATH=/usr/lib/dart/bin:$PATH
 
 #TOR
 export PATH=/home/rithvij/Downloads/tor-browser_en-US:$PATH
+
+#Rust
+export PATH=$HOME/.cargo/bin:$PATH
 
 # If not running interactively, don't do anything
 case $- in
